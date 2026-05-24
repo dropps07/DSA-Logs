@@ -19,7 +19,7 @@ class Solution{
 }
 
 //#approach 2
-class Solution {
+class Solution1 {
     public int findDuplicate(int[] nums) {
         int left=0;
         int rigth=nums.length;

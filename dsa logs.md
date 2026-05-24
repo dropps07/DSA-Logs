@@ -15,12 +15,12 @@
 >  - [x] Converting .java to .class (Byte Code)
 >  - [x] Changing Location of Byte Code
 >  - [x] How to use IntelliJ  <a href="Code/Main.java">code</a>
->  - [x] Primitive Data Types in Java <a href="Code/day 2/Primitives.java">code</a>
->  - [x] Outputs and Inputs in Java <a href="Code/day 2/Inputs.java">inputs</a>
->  - [x] Sum of two numbers <a href="Code/day 2/Sum.java">code</a>
->  - [x] Type Conversion and Casting <a href="Code/day 2/TypeCasting.java">code</a>
->  - [x] Basics of while loops and for loops <a href="code/day 2/Basics.java">code</a>
->  - [x] Temperature Conversion Program <a href="code/day 2/Temperature.java">code</a>
+>  - [x] Primitive Data Types in Java <a href="Code/day2/Primitives.java">code</a>
+>  - [x] Outputs and Inputs in Java <a href="Code/day2/Inputs.java">inputs</a>
+>  - [x] Sum of two numbers <a href="Code/day2/Sum.java">code</a>
+>  - [x] Type Conversion and Casting <a href="Code/day2/TypeCasting.java">code</a>
+>  - [x] Basics of while loops and for loops <a href="Code/day2/Basics.java">code</a>
+>  - [x] Temperature Conversion Program <a href="Code/day2/Temperature.java">code</a>
 
 > `resources` : https://youtu.be/TAtrPoaJ7gc?si=Zkutj-h41rRE379Q
 
