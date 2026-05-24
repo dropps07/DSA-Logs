@@ -11,5 +11,10 @@ public class TypeCasting {
         byte b = 50;
         byte c = 100;
         int d = (a*b)/c;
+        System.out.println(d);
+
+        int number = 'a'; //97
+        int number1 = 'A'; //65
+
     }
 }
