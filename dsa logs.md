@@ -26,13 +26,25 @@
 
 > `Next Step` : Conditionals and Loops + Calculator Program
 
-# Day 3    `20th July 2024`
+# Day 3    `24th May 2026`
 > `Topics Covered` : <mark>Conditionals</mark> and <mark>Loops</mark> + Calculator Program
 >  - [x] Conditionals <a href="Code/day3/Conditionals.java">code</a>
 >  - [x] loops : for , while , do while  <a href="Code/day3/loops.java">code</a>
->  - [x] Solved some questions <a href="Code/day3/Largest.java">Largest Number</a> ,<a href="Code/day3/CaseCheck.java">Case Check</a> , <a href="Code/day3/Fibonacci.java">Fibonacci</a> , <a href="code/Day 3/src/com/aditi/NoOfOccurance.java">No of occurance</a>,<a href="Code/day3/Reverse.java">Reverse</a>.         
+>  - [x] Solved some questions <a href="Code/day3/Largest.java">Largest Number</a> 
+,<a href="Code/day3/CaseCheck.java">Case Check</a> , <a href="Code/day3/Fibonacci.java">Fibonacci</a>
+,<a href="code/Day 3/src/com/aditi/NoOfOccurance.java">No of occurance</a>
+,<a href="Code/day3/Reverse.java">Reverse</a>.         
 >  - [x] Calculator program <a href="Code/day3/Calculator.java">Calculator</a> 
 
 > `resources` : https://youtu.be/ldYLYRNaucM?si=_kW3MGSII43bqRuQ
 
 > `Next Step` : Switch Statements + Nested Case in Java
+
+# Day 4 `25th May 2026`
+> `Topics Covered` : <mark>Switch</mark> Statements + <mark>Nested</mark> Case in Java
+> - [] Switch <a href="Code/day4/Switch.java">code</a>
+> - [] Nested Switch <a href="Code/day4/Conditions.java">code</a>
+
+> `resources` : https://www.youtube.com/watch?v=mA23x39DjbI
+
+> `Next Step` : Functions / Methods in Java
