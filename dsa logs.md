@@ -43,7 +43,7 @@
 # Day 4 `25th May 2026`
 > `Topics Covered` : <mark>Switch</mark> Statements + <mark>Nested</mark> Case in Java
 > - [] Switch <a href="Code/day4/Switch.java">code</a>
-> - [] Nested Switch <a href="Code/day4/Conditions.java">code</a>
+> - [] Nested Switch <a href="Code/day4/NestedSwitch.java">code</a>
 
 > `resources` : https://www.youtube.com/watch?v=mA23x39DjbI
 
